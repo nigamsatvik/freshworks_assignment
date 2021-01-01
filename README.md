@@ -1,2 +1,4 @@
 # freshworks_assignment
-This Python file has default path set for windows os based directory. To change it to work on any other filesystem or os change the path variable accordingly
+There are 2 files in the repository code.py which contains CRD functions and the run.py which imports code as a package.
+
+*NOTE*: The path variable is set according to my local machine. Before executing the program please change the path variable in each of create, readfile, delfile functions according to the respective local machine.
